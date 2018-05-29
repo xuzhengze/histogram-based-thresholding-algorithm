@@ -1,0 +1,17 @@
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\bin\Debug\Binaryzation.exe.config
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\bin\Debug\Binaryzation.exe
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\bin\Debug\Binaryzation.pdb
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Debug\Binaryzation.Properties.Resources.resources
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Debug\Binaryzation.csproj.GenerateResource.Cache
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Debug\Binaryzation.exe
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Debug\Binaryzation.pdb
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Debug\BilateralFilter.FrmTest.resources
+F:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\bin\Debug\Binaryzation.exe.config
+F:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Debug\Binaryzation.exe
+F:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Debug\Binaryzation.pdb
+F:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Debug\BilateralFilter.FrmTest.resources
+F:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Debug\Binaryzation.Properties.Resources.resources
+F:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Debug\Binaryzation.csproj.GenerateResource.Cache
+F:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\bin\Debug\Binaryzation.exe
+F:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\bin\Debug\Binaryzation.pdb
+F:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Debug\Binaryzation.csprojResolveAssemblyReference.cache

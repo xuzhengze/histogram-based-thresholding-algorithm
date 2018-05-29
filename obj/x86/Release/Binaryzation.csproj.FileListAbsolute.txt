@@ -1,0 +1,8 @@
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\bin\Release\Binaryzation.exe.config
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\bin\Release\Binaryzation.exe
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\bin\Release\Binaryzation.pdb
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Release\BilateralFilter.FrmTest.resources
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Release\Binaryzation.Properties.Resources.resources
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Release\Binaryzation.csproj.GenerateResource.Cache
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Release\Binaryzation.exe
+H:\BMVC_DeROT\HistgramBinaryzation\Histgram + Binaryzation\obj\x86\Release\Binaryzation.pdb
